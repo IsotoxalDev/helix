@@ -6,6 +6,7 @@ members = [
   "helix-tui",
   "helix-lsp",
   "helix-dap",
+  "helix-godot",
   "helix-loader",
   "xtask",
 ]
