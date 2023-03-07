@@ -17,7 +17,7 @@
 "keyword.function" = { fg = "blue" }
 "keyword.operator" = { fg = "blue-light" }
 "keyword.control.conditional" = { fg = "red" }
-"keyword.control.import" = { fg = "red-light" }
+"keyword.control.import" = { fg = "blue" }
 "keyword.control.return" = { fg = "blue" }
 "keyword.control.repeat" = { fg = "yellow-light" }
 "keyword.control.exception" = { fg = "black-light" }
